@@ -58,7 +58,7 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
         clang-tidy-10 \
         g++ \
         g++-8 \
-        intel-mkl-2020.0-088 \
+        intel-mkl-2020.4-912 \
         ## Dependencies
         libgomp1 \
         libturbojpeg0-dev \
